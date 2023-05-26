@@ -35,4 +35,4 @@ else
 {
      max = number_3;
 }
-Console.WriteLine("max");
+Console.WriteLine("Наибольшее из введённых чисел -> " + max);
